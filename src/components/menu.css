@@ -1,0 +1,52 @@
+:root {
+}
+
+body {
+}
+
+header {
+}
+
+.container {
+}
+
+header h1 {
+}
+
+header .sub-heading {
+}
+
+.cube-container {
+}
+
+.cube-container .cube {
+}
+
+.cube-container .cube-face {
+}
+
+.cube-container .front {
+  background: #d63946;
+}
+
+.cube-container .back {
+  background: #06d6a0;
+}
+
+.cube-container .left {
+  background: #023047;
+  color: #fff;
+}
+
+.cube-container .right {
+  background: #3d348b;
+  color: #fff;
+}
+
+.cube-container .top {
+  background: #a8dadc;
+}
+
+.cube-container .bottom {
+  background: #ffd166;
+}

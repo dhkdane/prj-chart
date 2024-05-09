@@ -1,11 +1,16 @@
 import "./App.css";
 
-import Home from "./Home";
+import Home from "./components/Home";
 
+import Menu from "./components/Menu";
+
+import Test1 from "./components/test";
 function App() {
   return (
     <>
-      <Home />
+      {/* <Home /> */}
+      {/* <Menu /> */}
+      <Test1 />
     </>
   );
 }

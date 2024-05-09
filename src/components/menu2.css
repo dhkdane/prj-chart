@@ -1,0 +1,37 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.cube-container {
+}
+
+.cube-container .cube {
+  display: flex;
+  flex-direction: column;
+}
+
+.cube-container .front {
+  background: #d63946;
+}
+
+.cube-container .back {
+  background: #06d6a0;
+}
+
+.cube-container .left {
+  background: #023047;
+  color: #fff;
+}
+
+.cube-container .right {
+  background: #3d348b;
+  color: #fff;
+}
+
+.cube-container .top {
+  background: #a8dadc;
+}
+
+.cube-container .bottom {
+  background: #ffd166;
+}
