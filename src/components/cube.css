@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --cube-width: 300px;
   --translateZ: 150px;
 }
@@ -60,7 +60,6 @@ header .sub-heading {
 .cube-container .front {
   background: #d63946;
   transform: translateZ(var(--translateZ));
-  /* opacity: 90%; */
 }
 
 .cube-container .back {
@@ -88,4 +87,4 @@ header .sub-heading {
 .cube-container .bottom {
   background: #ffd166;
   transform: rotateX(-90deg) translateZ(var(--translateZ));
-}
+} */
