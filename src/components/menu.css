@@ -59,7 +59,7 @@ header .sub-heading {
 
 .cube-container .front {
   background: #d63946;
-  transform: translateZ(var(--translateZ));
+  /* transform: translateZ(var(--translateZ)); */
 }
 
 .cube-container .back {
